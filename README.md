@@ -1,9 +1,13 @@
 # Robotica AdHoc
 
 ## Programación con Scratch
+### Clase 1
 * Introducción a la programación
-* Dibujando con Scratch
+### Clase 2
 * Videojuegos
+### Clase 3
+* Dibujando con Scratch
+
 
 ## Robotica
 ### Clase 1
@@ -20,3 +24,5 @@
 * Dibujo de formas con el robot
 ### Clase 5
 * Robot no-te-caigas
+### Clase 6
+* Detección
