@@ -2,7 +2,7 @@
 
 |Fase| Acabado|Descripción |Materiales | Formato
 |---|---|---
-|Ideas|0%| Lluvia de ideas| Cerebro, PDA, Lapiz Individual y/o grupo
+|Ideas|0%| Lluvia de ideas| Cerebro, PDA, Lapiz| Individual y/o grupo
 |Prueba de concepto|10%|
 |Prototipo|30%|Casi funcional
 |Versión Alfa|50%|
