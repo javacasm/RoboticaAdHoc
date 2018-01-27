@@ -30,6 +30,8 @@ Fase de integracion
 * Se prueba toda la funcionalidad
 
 
+Cada fase genera una documentaci'on que sirve como punto de entrada para la siguiente fase
+
 # Materiales
 
 * Diseño
