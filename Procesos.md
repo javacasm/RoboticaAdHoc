@@ -7,7 +7,7 @@
 |Prototipo|30%|resolvemos los problemas, se muestran las soluciones|Parte de los Materiales finales||
 |Versión Alfa|50%|Contiene la funcionalidad esencial|||
 |Versión Beta|80%|Salvo detalles de acabado|||
-|Producción|100%|
+|Producción|100%|||||
 
 
 
